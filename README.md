@@ -1,0 +1,2 @@
+# statslabs
+Some introductory statistics labs, complete with instructional videos, suggested assignments, and datasets. 
